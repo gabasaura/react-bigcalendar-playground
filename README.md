@@ -3,7 +3,7 @@
 Basic playground, react application that uses React Big Calendar to allow users to pick a date and time for a reunion.
 
 ## Setup
-Easy easy.
+Super Easy
 
 ```bash
 npm install
